@@ -1,0 +1,9 @@
+[project]
+name = "test-reflex-no-state-data"
+version = "0.1.0"
+description = "Generate exception when showing nested data structures directly instead of via State"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "reflex>=0.9.3",
+]
